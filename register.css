@@ -1,0 +1,15 @@
+*{
+    padding:0px;
+    margin:0px;
+}
+
+body{
+    background-color:black;
+}
+
+
+.reg{
+    text-decoration: none;
+    color:white;
+    padding: 20px 15px;
+}
